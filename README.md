@@ -1,4 +1,4 @@
- Hi, I’m Keibi
+ Hi, I’m Keibi. 
  I’m new to frontend development, and I'm constantly working to improve my skills. I'd love to connect with you.
 
 <!---
