@@ -1,5 +1,5 @@
  Hi, I’m @keibibev.
- I’m interested in meeting new people and networking. I’m currently learning web development.
+ I’m new to frontend development, and I'm constantly working to improve my skills. I'd love to connect with you.
 
 <!---
 keibibev/keibibev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
